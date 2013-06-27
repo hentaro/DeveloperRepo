@@ -1,3 +1,5 @@
+ПРИВЕТ!!!(max)
+
 <?php
 	include_once('db_ini.php');
 	
