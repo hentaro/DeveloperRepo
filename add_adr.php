@@ -1,5 +1,7 @@
 <?php
 	include_once('db_ini.php');
+	
+	уч
 /*
 	define( '_JEXEC', 1 );
 	define('JPATH_BASE', '/home/vtsystemru/domains/vtsystem.ru/public_html'); 
