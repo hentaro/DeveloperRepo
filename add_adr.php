@@ -2,6 +2,9 @@
 	include_once('db_ini.php');
 	
 	привет!!!!
+
+это пишет Макс
+
 /*
 	define( '_JEXEC', 1 );
 	define('JPATH_BASE', '/home/vtsystemru/domains/vtsystem.ru/public_html'); 
